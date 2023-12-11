@@ -29,15 +29,15 @@
 
 | Source |  Title | Links |
 |----------------------|-------------|----------------------|
-| Arxiv 2023 | Disentangled representation learning with large language models for text-attributed graphs |  |
-| Arxiv 2023 | Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) |  |
-| Arxiv 2023 | Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs |  |
-| Arxiv 2023 | Explanations as Features: LLM-Based Features for Text-Attributed Graphs |  |
-| Arxiv 2023 | Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs |  |
-| Arxiv 2023 | GraphAgent: Exploiting Large Language Models for Interpretable Learning on Text-attributed Graphs |  |
-| Arxiv 2023 | One For All: Towards Training One Graph Model For All Classification Tasks |  |
-| Arxiv 2023 | Label-free Node Classification on Graphs with Large Language Models (LLMS) |  |
-| Arxiv 2023 | LLM4GCL: CAN LARGE LANGUAGE MODEL EM-POWER GRAPH CONTRASTIVE LEARNING? |  |
+| Arxiv 2023 | Disentangled representation learning with large language models for text-attributed graphs | [PDF](https://arxiv.org/abs/2310.18152) |
+| Arxiv 2023 | Empower Text-Attributed Graphs Learning with Large Language Models (LLMs) | [PDF](https://arxiv.org/abs/2310.09872) |
+| Arxiv 2023 | Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs | [PDF](https://arxiv.org/abs/2309.02848) |
+| Arxiv 2023 | Explanations as Features: LLM-Based Features for Text-Attributed Graphs | [PDF](https://arxiv.org/abs/2305.19523v1) |
+| Arxiv 2023 | Large Language Models as Topological Structure Enhancers for Text-Attributed Graphs | [PDF](https://arxiv.org/abs/2311.14324v1) |
+| Arxiv 2023 | GraphAgent: Exploiting Large Language Models for Interpretable Learning on Text-attributed Graphs | [PDF](https://dblp.org/rec/journals/corr/abs-2305-19523) |
+| Arxiv 2023 | One For All: Towards Training One Graph Model For All Classification Tasks | [PDF](https://arxiv.org/abs/2310.00149) / [Code](https://github.com/LechengKong/OneForAll) |
+| Arxiv 2023 | Label-free Node Classification on Graphs with Large Language Models (LLMS) | [PDF](https://arxiv.org/abs/2310.04668) / [Code](https://github.com/CurryTang/LLMGNN) |
+| Arxiv 2023 | LLM4GCL: CAN LARGE LANGUAGE MODEL EM-POWER GRAPH CONTRASTIVE LEARNING? | [PDF](https://openreview.net/pdf?id=wxClzZdjqP) |
 
 
 
