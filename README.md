@@ -1,4 +1,4 @@
-# Awesome Text-Attributed Graphs (TAG) Learning 
+# Awesome Text-Attributed Graphs (TAGs) Learning 
 
 Here is a collection of research papers on Text-attributed Graphs learning.
 
@@ -12,7 +12,7 @@ Here is a collection of research papers on Text-attributed Graphs learning.
 [SIGIR 2022] Distilling Knowledge on Text Graph for Social Media Attribute Inference  
 [ICLR 2023] Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks  
 
-### LLM-enhanced Features
+### Large Language Models (LLMs)-enhanced Features
 [Arxiv 2023] Disentangled representation learning with large language models for text-attributed graphs  
 [Arxiv 2023] Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)  
 [Arxiv 2023] Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs  
