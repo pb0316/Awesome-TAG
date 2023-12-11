@@ -1,4 +1,4 @@
-# Awesome Text-Attributed Graphs (TAG)
+# Awesome Text-Attributed Graphs (TAG) Learning 
 
 Here is a collection of research papers on Text-attributed Graphs learning.
 
