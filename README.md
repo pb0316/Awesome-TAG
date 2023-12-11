@@ -1,6 +1,11 @@
-# Awesome Text-Attributed Graphs (TAGs) Learning 
+<h1 align="center"> Awesome-Text-Attributed-Graphs</h2>
+<h5 align="center">A collection of research papers on Text-attributed Graphs learning.</h5>
 
-Here is a collection of research papers on Text-attributed Graphs learning.
+<h5 align="center">
+  
+![Awesome](https://awesome.re/badge.svg)  
+
+</h5>
 
 
 ### Benchmarks
